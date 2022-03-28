@@ -2,7 +2,7 @@
 ---
 1. How long did you spend on the coding test? What would you add to your solution if you had more time?
 
-==It took about ~10 hours. The features can be countless, but I would expand it by using other data endpoints on the API.==
+==It took about ~10 hours. The features can be countless, but I would expand it by using other endpoints on the API.==
 
 2. What alternative approaches/solutions to the user story did you consider when engineering your solution? What benefits/downsides would they have had compared to the selected solution?
 
