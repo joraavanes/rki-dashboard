@@ -26,7 +26,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --detectOpenHandles",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "start:dev": "npm install && npm run start"
   },
   "eslintConfig": {
     "extends": [
@@ -48,6 +49,10 @@
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
+    "@typescript-eslint/eslint-plugin": "^5.16.0",
+    "@typescript-eslint/parser": "^5.16.0",
+    "eslint": "^8.12.0",
+    "eslint-plugin-react": "^7.29.4",
     "lodash.map": "^4.6.0"
   }
 }
