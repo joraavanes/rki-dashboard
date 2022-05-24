@@ -1,4 +1,4 @@
-# RKI Dashboard - Engineering Test
+# RKI Dashboard
 ---
 
 Showcasing fetched data of covid-19 cases, deaths and incidences across different cities of Germany, from an API called RKI
